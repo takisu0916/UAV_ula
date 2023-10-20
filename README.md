@@ -6,6 +6,20 @@ An ultra-low-altitude oblique photography (UAV ula) dataset
   <img src="assets\uavula.jpg" width="100%" />
 </p>
 
+## Introduction
+
+The dataset contains a total of 40 video sequences collected from Yunnan, China. The videos were captured with a DJI Mavic 2 pro, with a total image size of 3840 × 2160. The video frame rate is 25 frames per second, and the images were captured at an altitude of 30 ∼ 40 m and a speed of 1.1 ∼ 1.2 meters per second at a 45-degree angle. The videos were captured at approximately the same flight altitude. There are many dynamic objects in these scenes, such as moving vehicles and pedestrians. At the same time, in order to focus on the abrupt depth gaps in the ultra-low altitude environment and the extensive area of low-texture features in the image, many scenes in the dataset consist of roofs, roads and vegetation.
+
+
+## How to use
+
+
+
+
+
+
+## Note
+
 
 
 
