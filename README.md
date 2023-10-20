@@ -25,7 +25,7 @@ The dataset contains a total of 40 video sequences collected from Yunnan, China.
 
 ## Citation
 
-If this code is useful for your research, please cite our paper.
+If this dataset is useful for your research, please cite our paper.
 ```bibtex
 @article{YU2023284,
   title={Scene-aware refinement network for unsupervised monocular depth estimation in ultra-low altitude oblique photography of UAV},
